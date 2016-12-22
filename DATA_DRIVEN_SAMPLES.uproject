@@ -1,6 +1,31 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{39C8B472-41E7-6892-2C85-988A5D884297}",
+	"EngineAssociation": "{B83A920D-49D8-E173-7A85-0D9901FBF439}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+		"Plugins": [
+		 
+		 
+		 
+		{
+			"Name": "GearVR",
+			"Enabled": false
+		},
+		{
+			"Name": "OculusInput",
+			"Enabled": false
+		},
+		{
+			"Name": "OculusLibrary",
+			"Enabled": false
+		},
+		{
+			"Name": "OculusRift",
+			"Enabled": false
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false
+		}
+	]
 }
